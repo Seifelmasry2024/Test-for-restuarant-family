@@ -6,7 +6,7 @@
 }
 
 .home{
-    background-image: url('5.jpg');
+    background-image: url(5.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -459,6 +459,7 @@ align-items: center;
 }
 
 /* end footer  */
+
 
 
 
